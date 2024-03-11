@@ -1,2 +1,2 @@
 # MEA_Analyzer
-This repository contains library functions to analyze MEA files  
+This repository contains library functions to analyze MEA files.
